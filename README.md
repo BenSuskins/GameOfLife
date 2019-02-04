@@ -7,7 +7,7 @@ As part of the development I assumed that an infinite grid would be rather impos
 
 
 ## Running 
-[Game of Life Jar](https://github.com/BenSuskins/GameOfLife/releases/tag/1.0.0)
+[Game of Life Jar](https://github.com/BenSuskins/GameOfLife/releases/tag/1.1.0)
 
 Game can be ran using:
 
