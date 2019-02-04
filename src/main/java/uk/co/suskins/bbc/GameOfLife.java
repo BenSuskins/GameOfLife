@@ -11,7 +11,7 @@ import java.util.TimerTask;
  * Ben Suskins 2019
  * <p>
  * This class represents the logic
- * for the Game of Logic.
+ * for the Game of Life.
  */
 class GameOfLife {
     private final int rows;
