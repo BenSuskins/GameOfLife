@@ -1,15 +1,11 @@
 # GameOfLife
 
-Game of Life developed in Java 8.
-
-## Assumptions
-As part of the development I assumed that an infinite grid would be rather impossible, as a result I made the grid size configurable as a command line argument or if not provided a preset configuration would run.
-
+Game of Life Simulation developed in Java 8.
 
 ## Running 
 [Game of Life Jar](https://github.com/BenSuskins/GameOfLife/releases/tag/1.1.0)
 
-Game can be ran using:
+Simulation can be ran using:
 
 ```
 java -jar bbcGameOfLife.jar
